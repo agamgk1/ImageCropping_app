@@ -1,0 +1,18 @@
+.my-button {
+	-fx-background-color:silver;
+	-fx-border-style:solid;
+	-fx-border-radius: 5;
+	-fx-font-size: 10pt; 
+	-fx-font-family: 'serif';
+	}
+	
+.my-label {
+	-fx-font-size: 10pt;
+	-fx-font-style: normal;
+	-fx-font-family: 'serif';
+	-fx-text-fill:black;
+}
+	
+.my-root {
+	-fx-background-color:rgb(100%,100%,100%);
+}
